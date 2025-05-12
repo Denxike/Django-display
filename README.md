@@ -1,1 +1,2 @@
 # Django-display
+Hey there! 👋 So, this is all the code you need to whip up a super simple, working Django project and app. We've called the main project myproject, and inside it, there's a little app named myapp. This app is pretty cool – it's got a basic Item setup for the database, a way to show you a list of those items, a web address to get to that list, and a little template to make it look nice!Just follow the steps, and you'll have this project up and running in no time. Get ready to code! ✨
